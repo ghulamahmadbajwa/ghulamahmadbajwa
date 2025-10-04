@@ -71,7 +71,7 @@
 
 
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cartesia/0B74DA" height="40" alt="Cartesia" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAHlBMVEUAAADn5+fy8vKWlpbs7Oz39/f8/PydnZ2ZmZlhYWESaBxIAAABmklEQVR4nO3dO25bQRBEUZkfSd7/hr0APwYqsBuF0TnxDVggmAwGw48PAAAAAAAAAAAA4AiftwvPrzfELW5/Ljzub4hbWJjHLSzM4xYW5nELC/O4hYV53MLCPG5hYR63sDCPW1iYxy3OX/h8XLi9+NA/itf9/b6v2j+B+75dfQHP6/g+Fg+6P65+RLfteJCFS/EgC5fiQRYuxYMsXIoHWbgUD7JwKR5k4VI8yMKleJCFS/GgX7DweXUp7fMN8ddP4re4vl/34lTzR3GL84+xLczjFhbmcQsL87iFhXncwsI8bmFhHrewMI9bWJjHLSzM4xYW5nELC/O4hYV53MLCPG5hYR63sDCPW1iYxy0szOMWFuZxCwvzuIWFedzCwjxucf69tmsn3U289gvul1q4Ew+ycCkeZOFSPMjCpXiQhUvxIAuX4kEWLsWDLFyKB1m4FA86f+H577Wd/+beCwe9m/jC+QfkFuZxCwvzuIWFedzCwjxuYWEet7Awj1tYmMctLMzjFhbmcYvzF57/X7IAAAAAAAAAAADAf/4BvoIpxQppxRQAAAAASUVORK5CYII=" height="40" alt="Cartesia" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/livekit/FF3C00" height="40" alt="LiveKit" />
 
